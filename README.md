@@ -38,6 +38,16 @@ This project analyzes hotel revenue performance across 7,468 bookings using SQL 
 * Monitor high-cancellation segments and channels to reduce revenue leakage.
 * Maintain forecasting practices that support proactive inventory and pricing decisions.
 
+### Tableau Dashboard
+
+View Interactive Dashboard:
+
+[Tableau Public Dashboard](https://public.tableau.com/app/profile/haley.huitt/viz/RevenueManagementandDemandForecastingDashboard/ExecutiveOverview)
+
+![Revenue Management Performance Dashboard and Demand Forecasting & Revenue Optimization Dashboard](Dashboard1.png)
+
+![Demand Forecasting & Revenue Optimization Dashboard](Dashboard2.png)
+
 ## Disclaimer
 
 This dashboard was created for portfolio and educational purposes using a fictional hotel dataset. Results, metrics, and business scenarios do not represent any real hotel or hospitality organization.
