@@ -44,9 +44,9 @@ View Interactive Dashboards:
 
 [Tableau Public Dashboards](https://public.tableau.com/app/profile/haley.huitt/viz/RevenueManagementandDemandForecastingDashboard/ExecutiveOverview)
 
-![Revenue Management Performance Dashboard and Demand Forecasting & Revenue Optimization Dashboard](Dashboard1.png)
+![Revenue Management Performance Dashboard and Demand Forecasting & Revenue Optimization Dashboard](dashboard1.png)
 
-![Demand Forecasting & Revenue Optimization Dashboard](Dashboard2.png)
+![Demand Forecasting & Revenue Optimization Dashboard](dashboard2.png)
 
 ## Disclaimer
 
