@@ -1,4 +1,4 @@
-# Revenue Management & Demand Forecasting Dashboard
+# Revenue Management & Demand Forecasting Dashboards
 
 ## Project Overview
 
@@ -42,7 +42,7 @@ This project analyzes hotel revenue performance across 7,468 bookings using SQL 
 
 View Interactive Dashboards:
 
-[Tableau Public Dashboard](https://public.tableau.com/app/profile/haley.huitt/viz/RevenueManagementandDemandForecastingDashboard/ExecutiveOverview)
+[Tableau Public Dashboards](https://public.tableau.com/app/profile/haley.huitt/viz/RevenueManagementandDemandForecastingDashboard/ExecutiveOverview)
 
 ![Revenue Management Performance Dashboard and Demand Forecasting & Revenue Optimization Dashboard](Dashboard1.png)
 
@@ -50,4 +50,4 @@ View Interactive Dashboards:
 
 ## Disclaimer
 
-This dashboard was created for portfolio and educational purposes using a fictional hotel dataset. Results, metrics, and business scenarios do not represent any real hotel or hospitality organization.
+These dashboards were created for portfolio and educational purposes using a fictional hotel dataset. Results, metrics, and business scenarios do not represent any real hotel or hospitality organization.
